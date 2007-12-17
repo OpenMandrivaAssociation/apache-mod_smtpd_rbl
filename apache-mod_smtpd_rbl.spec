@@ -27,7 +27,6 @@ BuildRequires:	apache-mod_smtpd-devel
 BuildRequires:	apache-mod_dnsbl_lookup-devel
 BuildRequires:	file
 Epoch:		1
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 mod_smtpd_rbl brings "RBL" (DNSBL/RHSBL) support to mod_smtpd.
