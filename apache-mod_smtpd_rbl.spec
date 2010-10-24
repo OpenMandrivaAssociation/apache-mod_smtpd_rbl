@@ -8,7 +8,7 @@
 Summary:	Mod_smtpd_rbl brings "RBL" (DNSBL/RHSBL) support to mod_smtpd
 Name:		apache-%{mod_name}
 Version:	0
-Release:	%mkrel 1.%{snap}.9
+Release:	%mkrel 1.%{snap}.10
 Group:		System/Servers
 License:	Apache License
 URL:		https://svn.apache.org/repos/asf/httpd/mod_smtpd/trunk/mod_smtpd_rbl/
